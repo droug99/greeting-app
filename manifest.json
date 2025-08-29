@@ -2,23 +2,23 @@
   "name": "James Bond Greeting App",
   "short_name": "Greeting App",
   "description": "A stylish greeting app with fireworks, confetti, quotes, and multi-language support",
-  "start_url": "./",
+  "start_url": "https://droug99.github.io/greeting-app/",
   "display": "standalone",
   "background_color": "#f0f2f5",
   "theme_color": "#3498db",
   "orientation": "portrait-primary",
-  "scope": "./",
+  "scope": "https://droug99.github.io/greeting-app/",
   "lang": "en",
   "categories": ["entertainment", "social"],
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://droug99.github.io/greeting-app/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "icon-512.png",
+      "src": "https://droug99.github.io/greeting-app/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
@@ -29,10 +29,10 @@
       "name": "Quick Greeting",
       "short_name": "Greet",
       "description": "Get a quick greeting with effects",
-      "url": "/",
+      "url": "https://droug99.github.io/greeting-app/",
       "icons": [
         {
-          "src": "icon-192.png",
+          "src": "https://droug99.github.io/greeting-app/icon-192.png",
           "sizes": "192x192"
         }
       ]
