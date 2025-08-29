@@ -1,11 +1,13 @@
 // Service Worker for James Bond Greeting App
 const CACHE_NAME = 'greeting-app-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/app.js',
-  '/styles.css',
-  '/manifest.json'
+  './',
+  './index.html',
+  './app.js',
+  './styles.css',
+  './manifest.json',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 // Install event - cache resources
